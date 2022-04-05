@@ -1,0 +1,43 @@
+<lj-raw><div style="margin:0 auto;width:500px;height:550px;padding:50px 50px 50px 0;background:#A91616 url(BG_IMG)center;background-size:cover;display:flex;align-items:center;justify-content:flex-end;box-sizing:border-box;outline:1px solid #fff;outline-offset:-15px;line-height:1;">
+
+	<!--CONTENT-->
+	<details style="font-family:calibri,sans-serif;font-size:12px;color:rgba(255,255,255,0.8);text-align:center;">
+
+		<!--INFO-->
+		<summary style="width:calc(500px / 2);height:100%;padding:20px;cursor:pointer;font-size:0;display:inline-flex;align-items:center;justify-content:center;background:#D63F1E;border:1px solid rgba(255,255,255,0.2);box-sizing:border-box;float:left;">
+			<div style="font-size:12px;line-height:1.5;">
+            
+            <img src="https://lh5.ggpht.com/mjbmeister/SGTxNa_3f3I/AAAAAAAAH9g/TkUpJtGmPKo/s800/sabre-tooth-tiger-1.jpg" style="margin:0 0 15px 0;width:90px;outline:1px solid rgba(255,255,255,0.1);outline-offset:8px;box-sizing:content-box;">
+
+				<!--TITLE-->
+				<div style="display:inline-block;font-family:times,serif;font-size:18px;text-transform:uppercase;letter-spacing:1px;color:#fff;border-bottom:2px solid #A91616;padding:0 10px 10px 10px;margin:0 0 20px 0;">SABRE-TOOTH TIGER</div><br>
+
+				An animal long gone extinct
+
+				<!--MORE-->
+				<div style="display:inline-block;font-family:times,serif;font-size:8px;text-transform:uppercase;letter-spacing:1px;color:#fff;line-height:3;background:#A91616;padding:2px 20px 0 20px;margin:20px auto 0 auto;">NAVAGATION - CLICK HERE</div>
+
+			</div>
+		</summary>
+
+
+
+		<!--NAV-->
+		<div style="width:calc(500px / 3.45);height:100%;padding:20px;display:inline-flex;align-items:center;justify-content:center;background:#D63F1E;border:1px solid rgba(255,255,255,0.2);margin:0 0 0 5px;box-sizing:border-box;"><div style="width:100%;line-height:2;font-family:times,serif;font-size:8px;text-transform:uppercase;letter-spacing:1px;">
+
+			<img src="https://i.pinimg.com/564x/b5/7c/4c/b57c4ce1b4405302ff9a203e3c33d472.jpg" style="margin:0 0 15px 0;width:90px;outline:1px solid rgba(255,255,255,0.1);outline-offset:8px;box-sizing:content-box;">
+        
+        <hr><br>
+        
+        <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">GENERAL INFORMATION</a>
+		   <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">HISTORY</a>
+        <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">APPEARANCE</a>
+        <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">EXTINCTION</a>
+        <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">GALLERY</a>
+        <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">ESSENTIAL QUESTION</a>
+        <a href="URL" style="color:#fff;text-decoration:none;display:block;padding:2px 0 0 0;margin:3px 0;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.1);">SOURCES</a>
+
+		</div></div>
+	</details>
+
+</div><center style="margin:5px 0 0 0;font-size:7px;letter-spacing:3px;font-weight:bold;"><a href="https://tessisamess.insanejournal.com/140003.html" style="color:#aaa;text-decoration:none;">CODING</a></center></lj-raw>
